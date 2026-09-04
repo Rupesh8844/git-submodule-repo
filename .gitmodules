@@ -4,3 +4,6 @@
 [submodule "apis"]
 	path = apis
 	url = git@github.com:Rupesh8844/apis.git
+[submodule "git-submodule-repo"]
+	path = git-submodule-repo
+	url = git@github.com:Rupesh8844/git-submodule-repo.git
