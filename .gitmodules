@@ -1,6 +1,3 @@
 [submodule "ui"]
 	path = ui
 	url = git@github.com:Rupesh8844/ui.git
-[submodule "git-submodule-repo"]
-	path = git-submodule-repo
-	url = git@github.com:Rupesh8844/git-submodule-repo.git
